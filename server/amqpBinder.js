@@ -17,7 +17,7 @@ amqpConn.on('connect', function () {
 })
 
 var mqtt = require('mqtt')
-var client = mqtt.connect(config.mqtt.broker.url)
+var client = mqtt.connect(config.mqtt.broker.url);
 
 client.on('connect', function () {
     genLog.log("AMQP-MQTT binder Client Connected");
