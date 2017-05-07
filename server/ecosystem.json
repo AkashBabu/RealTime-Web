@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "name": "AMQP-MQTT binder",
+      "script": "./amqpBinder.js"
+    }, {
+      "name": "Echo Server",
+      "script": "./echo.js"
+    }
+  ]
+}
