@@ -11,7 +11,7 @@
         "broker": {
             "hostname": "tcp://iot.eclipse.org",
             "port": 1883,
-            "url": "tcp://broker.mqttdashboard.com:1883"
+            "url": "mqtt://broker.mqttdashboard.com:1883"
         },
         "echoTopic": "/$req/realtimeweb/#"
     },
