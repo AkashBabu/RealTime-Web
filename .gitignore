@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 .vscode/
 server/node_modules/
+=======
+server/
+node_modules/
+
+>>>>>>> 25f74262d920feb6092cd95c05bd3290ea2b5a00
